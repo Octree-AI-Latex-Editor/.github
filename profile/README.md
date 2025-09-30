@@ -1,9 +1,5 @@
 # 🌳 Octree
 
-Building efficient spatial data structures and high-performance systems.
+AI-powered collaborative LaTeX editing with real-time PDF compilation.
 
-We focus on creating tools and libraries that make complex algorithms accessible and performant.
-
----
-
-**Explore our projects** → [octree.org](https://octree.org) 
+We're building tools that make academic and technical writing effortless through intelligent automation and modern web technologies.
