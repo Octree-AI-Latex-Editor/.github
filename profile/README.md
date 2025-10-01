@@ -1,5 +1,13 @@
-# Octree
-
-AI-powered collaborative LaTeX editing with real-time PDF compilation.
-
-We're building tools that make academic and technical writing effortless through intelligent automation and modern web technologies.
+   # Octree AI LaTeX Editor
+   
+   AI-powered collaborative LaTeX editing with real-time PDF compilation.
+   
+   ## 🚀 Projects
+   
+   - **[Octree Editor](https://github.com/Octree-AI-Latex-Editor/octree)** - Main LaTeX editor application
+   - **[Tools](https://github.com/Octree-AI-Latex-Editor/tools)** - Free online LaTeX conversion tools
+   
+   ## 🔗 Links
+   
+   - [Website](https://useoctree.com)
+   - [Documentation](#)
