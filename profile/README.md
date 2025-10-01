@@ -1,4 +1,4 @@
-# 🌳 Octree
+# Octree
 
 AI-powered collaborative LaTeX editing with real-time PDF compilation.
 
